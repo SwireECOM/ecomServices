@@ -1,2 +1,2 @@
 # ecomServices
-fr developing backend services
+for developing backend services
